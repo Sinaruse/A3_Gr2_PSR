@@ -12,3 +12,4 @@ require __DIR__.'/vendor/autoload.php';
 //echo $slugify->slugify('Mé qzyd g éé dezf àà ');
 
 echo \OKLM\StringGenerator\PasswordGenerator::generate(30, 'hard');
+echo \OKLM\StringGenerator\LoremIpsumGenerator::generate(40);
