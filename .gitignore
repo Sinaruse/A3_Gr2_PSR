@@ -1,6 +1,3 @@
 /VENDOR/
-
-.DS_*
-
-.thumbdb
+/bin/
 
